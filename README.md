@@ -1,2 +1,2 @@
 # logging-journey
-The journey from Sentry to Jaeger, WatchDog, Graphite, DataDogHQ
+The journey from Sentry to Jaeger, Screencast, Remote Proxy, WatchDog, Graphite, DataDogHQ...
